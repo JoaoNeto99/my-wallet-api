@@ -1,0 +1,52 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  <!--<servlet>
+  
+  	<servlet-name>GetRendimentoCarteira</servlet-name>
+  	<display-name>GetRendimentoCarteira</display-name>
+  	<description></description>
+  	<servlet-class>carteiraJava.service.GetRendimentoCarteira</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>GetRendimentoCarteira</servlet-name>
+  	<url-pattern>/GetRendimentoCarteira</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>GetListusertradeServelet</servlet-name>
+  	<url-pattern>/GetListusertradeServelet</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  	<servlet-name>GetAcoesServlet</servlet-name>
+  	<display-name>GetAcoesServlet</display-name>
+  	<description></description>
+  	<servlet-class>carteiraJava.service.GetAcoesServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>GetAcoesServlet</servlet-name>
+  	<url-pattern>/GetAcoesServlet</url-pattern>
+  </servlet-mapping>
+   <servlet>
+  	<servlet-name>GetPeriodoServlet</servlet-name>
+  	<display-name>GetPeriodoServlet</display-name>
+  	<description></description>
+  	<servlet-class>carteiraJava.service.GetPeriodoServlet</servlet-class>
+  </servlet>
+  <servlet>
+  	<servlet-name>GetAcaoServlet</servlet-name>
+  	<display-name>GetAcaoServlet</display-name>
+  	<description></description>
+  	<servlet-class>carteiraJava.service.GetAcaoServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>GetPeriodoServlet</servlet-name>
+  	<url-pattern>/GetPeriodoServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  	<servlet-name>GetAcaoServlet</servlet-name>
+  	<url-pattern>/GetAcaoServlet</url-pattern>
+  </servlet-mapping> -->
+</web-app>
